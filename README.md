@@ -5,6 +5,3 @@
 <hr/>
 <p>This code is a representation of the code designed for the VEX robotics competition of 2025. Use of AI camera module, smartdrive (interial driving), and on screen UI selectors, all designed to create an easier experience for the user to be able to select side and color of program, within one file. </p>
 <hr/>
-<h2 style="color:red">Warning!</h2>
-<hr style="color:red"/>
-<p>Ensure that all ports are aligned with the diagram</p>
