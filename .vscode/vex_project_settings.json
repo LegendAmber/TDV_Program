@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "TDV_MAIN",
+		"slot": 1,
+		"description": "",
+		"platform": "V5",
+		"creationDate": "Tue, 18 Mar 2025 06:06:03 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240802_15_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.6.1",
+		"json": 1
+	}
+}
